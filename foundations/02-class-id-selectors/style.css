@@ -1,6 +1,6 @@
-.odd-numbers{
-    color: #ff2655;
-    font-family: Verdana, DejaVu, Sans, sans-serif;
+.odd-number{
+    background-color: #fd87a0;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #element-two{
@@ -14,7 +14,7 @@
     font-weight: 700;
 }
 
-.odd-numbers.cool{
+.odd-number-cool{
     font-size: 24px;
-    font-weight: bold;
+    
 }
